@@ -1,0 +1,20 @@
+
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "pages/resume_analyzer.py"
+name = "Resume Analyzer"
+icon = "📄"
+
+[[pages]]
+path = "pages/settings.py"
+name = "Settings"
+icon = "⚙️"
+
+[[pages]]
+path = "pages/tips_and_guide.py"
+name = "Tips And Guide"
+icon = "💡"
