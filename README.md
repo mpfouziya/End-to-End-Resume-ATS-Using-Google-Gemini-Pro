@@ -24,6 +24,6 @@ Technologies used:
 - **Resume Parsing & Scoring**: Extract candidate info and score relevance.
 - **AI-Powered Analysis**: Use Google Gemini Pro to understand skill context.
 
-🌐 Try the live Streamlit app: [ATS Demo](https://ats-resume-gemini-pro.streamlit.app/)
+🌐 Try the live Streamlit app: [ATS Demo](https://homepy-6fsa43ahvq5qxfxyqxkyac.streamlit.app/)
 
 
