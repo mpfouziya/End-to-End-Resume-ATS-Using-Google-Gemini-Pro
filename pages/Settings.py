@@ -367,10 +367,10 @@ st.header("⚡ Quick Actions")
 action_col1, action_col2, action_col3 = st.columns(3)
 
 with action_col1:
-    st.page_link("app.py", label="🏠 Back to Home", use_container_width=True)
+    st.page_link("Home.py", label="🏠 Back to Home", use_container_width=True)
 
 with action_col2:
-    st.page_link("pages/resume_analyzer.py", label="📊 Analyze Resume", use_container_width=True)
+    st.page_link("pages/Resume_Analyzer.py", label="📊 Analyze Resume", use_container_width=True)
 
 with action_col3:
-    st.page_link("pages/tips_and_guide.py", label="💡 View Tips", use_container_width=True)
+    st.page_link("pages/Tips_and_Guide.py", label="💡 View Tips", use_container_width=True)

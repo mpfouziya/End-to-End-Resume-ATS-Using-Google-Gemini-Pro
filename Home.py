@@ -128,7 +128,7 @@ Navigate to the **Resume Analyzer** page from the sidebar to begin analyzing you
 
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.page_link("pages/resume_analyzer.py", label="🚀 Start Analyzing Now", use_container_width=True)
+    st.page_link("pages/Resume_Analyzer.py", label="🚀 Start Analyzing Now", use_container_width=True)
 
 st.divider()
 
